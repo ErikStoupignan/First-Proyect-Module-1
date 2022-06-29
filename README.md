@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# First Proyect Module 1
+# Hello Microverse!
 
 > First proyect.
 
@@ -12,23 +12,17 @@
 
 
 ## Getting Started
-
-To start to work with this repository, Clone it in your personal computer using git clone.
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Go to the principal page of this repertory.
+- In the top right corner, you will find the button "Code" in the color green.
+- There, copy the link (HTTPS) using the established button.
+- Open the terminal Git on your computer.
+- Define the position where you want to clone the repertory.
+- After you are in the destiny folder, type the next command on your Git terminal: git clone  "paste the HTTPS link"
+- If everything was ok, your terminal will send to you information about your download. 
+- Finally, you could go to Visual Studio Code and open the folder with your new repository and start to work.
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
@@ -41,21 +35,6 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [Erik Stoupignan Sánchez Beltrán](https://www.linkedin.com/in/erik-stoupignan-s%C3%A1nchez-beltr%C3%A1n-393180238/)
 
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
