@@ -1,6 +1,8 @@
+# .gitignore
+node_modules/
 #file ignored
 test.md
 
-# .gitignore
-node_modules/
+
+
 
