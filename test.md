@@ -1,1 +1,1 @@
-This file should be ignored by git
+This file have to be ignored by .gitignore
